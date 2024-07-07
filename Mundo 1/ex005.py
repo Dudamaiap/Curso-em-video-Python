@@ -6,3 +6,5 @@ antecessor = (numero-1)
 sucessor = (numero+1)
 
 print(f'O antecessor do {numero} é {antecessor} e o sucessor é {sucessor}')
+
+print(f'O antecessor do {} é {} e o sucessor é {}'.format(numero,antecessor,sucessor))
